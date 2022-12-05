@@ -1,0 +1,22 @@
+.loginArea{
+   
+    margin: 0 auto;
+    box-shadow: 0 10px 10px 10px #cccccc;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.submit-area{
+  
+    margin: 0 auto;
+    box-shadow: 0 10px 10px 10px #cccccc;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.same{
+    width: 400px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    padding: 22px;
+}
